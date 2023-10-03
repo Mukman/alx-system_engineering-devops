@@ -1,0 +1,3 @@
+#!/bin/bash
+MUK='Good student'
+echo Muktar is a $MUK
