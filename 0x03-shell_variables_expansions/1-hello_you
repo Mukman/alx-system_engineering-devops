@@ -1,2 +1,2 @@
 #!/bin/bash
-MUK='Good student' echo Muktar is a $MUK
+MUK='Good student' echo hello Muktar $MUK
